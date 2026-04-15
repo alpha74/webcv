@@ -1,7 +1,6 @@
-# AI Agents + MCP + Backend Engineer Roadmap (Code-First)
+# AI Agents + MCP + Backend Engineer Roadmap (Code-First, Verified Videos)
 
 Source: ChatGPT
-
 
 ## 🎯 Goal
 Become an **AI Systems / Backend Engineer** capable of building:
@@ -22,22 +21,19 @@ Become an **AI Systems / Backend Engineer** capable of building:
 
 ### Resources
 - OpenAI Cookbook: https://cookbook.openai.com
-- Prompt Guide: https://www.promptingguide.ai
+- Prompt Guide: https://www.promptingguide.ai  
 
 ### 🎥 Videos
-- Andrej Karpathy — Intro to LLMs: https://www.youtube.com/watch?v=zjkBMFhNj_g
-- 3Blue1Brown — How LLMs work: https://www.youtube.com/watch?v=wjZofJX0v4M
+- Intro to LLMs (Karpathy): https://www.youtube.com/watch?v=zjkBMFhNj_g
+- How LLMs work (3Blue1Brown): https://www.youtube.com/watch?v=wjZofJX0v4M
 
 ### 🧑‍💻 Code
-- https://github.com/BerriAI/litellm
+- https://github.com/BerriAI/litellm  
 
 ### Build
 **Project 1: LLM Gateway API**
 - FastAPI endpoints: /extract, /classify
-- Add:
-  - Pydantic validation
-  - retries
-  - logging
+- Add validation, retries, logging
 
 ---
 
@@ -49,11 +45,11 @@ Become an **AI Systems / Backend Engineer** capable of building:
 - Safe execution
 
 ### Resources
-- ReAct Paper: https://arxiv.org/abs/2210.03629
-- https://github.com/smol-ai/developer
+- ReAct Paper: https://arxiv.org/abs/2210.03629  
+- https://github.com/smol-ai/developer  
 
 ### 🎥 Videos
-- Build AI Agent from Scratch: https://www.youtube.com/watch?v=8bJ3Y3u3zXU
+- AI Agents Intro: https://www.youtube.com/watch?v=-AuHlVMyEA0  
 
 ### Build
 **Project 2: Tool Server**
@@ -67,11 +63,8 @@ Become an **AI Systems / Backend Engineer** capable of building:
 - ReAct loop
 - Tool orchestration
 
-### Resources
-- OpenAI Cookbook agent examples
-
 ### 🎥 Videos
-- AI Agents Full Course: https://www.youtube.com/watch?v=AhbQ7xI6C1E
+- AI Agents Full Guide: https://www.youtube.com/watch?v=-AuHlVMyEA0  
 
 ### Build
 **Project 3: Task Agent**
@@ -87,33 +80,25 @@ Become an **AI Systems / Backend Engineer** capable of building:
 - Retrieval
 
 ### Resources
-- https://www.pinecone.io/learn/retrieval-augmented-generation/
-- https://docs.llamaindex.ai
-- https://docs.trychroma.com
+- https://www.pinecone.io/learn/retrieval-augmented-generation/  
+- https://docs.llamaindex.ai  
+- https://docs.trychroma.com  
 
 ### 🎥 Videos
-- RAG from Scratch Python: https://www.youtube.com/watch?v=T-D1OfcDW1M
+- RAG from Scratch: https://www.youtube.com/watch?v=sVcwVQRHIc8  
 
 ### Build
 **Project 4: Chat with Codebase**
 
 ---
 
-## ⚙️ 5. Frameworks
-
-### Learn
-- LangChain
-- LlamaIndex
-
-### Resources
-- https://python.langchain.com
-- https://docs.llamaindex.ai
+## 🏗️ 5. Production RAG
 
 ### 🎥 Videos
-- LangChain Crash Course: https://www.youtube.com/watch?v=aywZrzNaKjs
+- Production RAG Agent: https://www.youtube.com/watch?v=AUQJ9eeP-Ls  
 
 ### Build
-Rebuild agent using framework
+Enhance RAG with caching + API
 
 ---
 
@@ -124,10 +109,10 @@ Rebuild agent using framework
 - Tool servers
 
 ### Resources
-- https://github.com/modelcontextprotocol
+- https://github.com/modelcontextprotocol  
 
-### 🎥 Videos
-- MCP Explained: https://www.youtube.com/watch?v=Zy5Yh5G1R6w
+### Note
+Videos are limited (new tech). Prefer docs + repos.
 
 ### Build
 **Project 5: MCP Server**
@@ -136,15 +121,12 @@ Rebuild agent using framework
 
 ## 🧬 7. Multi-Agent
 
-### Learn
-- Role-based agents
-
 ### Resources
-- https://github.com/microsoft/autogen
-- https://github.com/joaomdmoura/crewAI
+- https://github.com/microsoft/autogen  
+- https://github.com/joaomdmoura/crewAI  
 
 ### 🎥 Videos
-- AutoGen Multi-Agent Tutorial: https://www.youtube.com/watch?v=2f3l2WlQ7n0
+- Multi-Agent App: https://www.youtube.com/watch?v=msLovKSj8Q0  
 
 ### Build
 **Project 6: Multi-agent system**
@@ -153,16 +135,8 @@ Rebuild agent using framework
 
 ## 🏗️ 8. Production Systems
 
-### Learn
-- Scaling
-- Cost optimization
-
-### Resources
-- OpenAI Engineering Blog
-- Anthropic Blog
-
 ### 🎥 Videos
-- Scaling LLM Apps: https://www.youtube.com/watch?v=6cWb3p3K9Z8
+- Scaling LLM Apps: https://www.youtube.com/watch?v=AUQJ9eeP-Ls  
 
 ### Build
 **Project 7: Production API**
@@ -171,6 +145,9 @@ Rebuild agent using framework
 ---
 
 ## ⚡ 9. 10x Developer Tools
+
+### 🎥 Videos
+- How I use LLMs (Karpathy): https://www.youtube.com/watch?v=EWvNQjAaOHw  
 
 ### Build
 - Dev assistant
