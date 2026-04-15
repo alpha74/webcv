@@ -2,6 +2,7 @@
 
 Source: ChatGPT
 
+
 ## 🎯 Goal
 Become an **AI Systems / Backend Engineer** capable of building:
 - Agent systems
@@ -22,7 +23,13 @@ Become an **AI Systems / Backend Engineer** capable of building:
 ### Resources
 - OpenAI Cookbook: https://cookbook.openai.com
 - Prompt Guide: https://www.promptingguide.ai
-- Video: Karpathy LLM Intro (YouTube)
+
+### 🎥 Videos
+- Andrej Karpathy — Intro to LLMs: https://www.youtube.com/watch?v=zjkBMFhNj_g
+- 3Blue1Brown — How LLMs work: https://www.youtube.com/watch?v=wjZofJX0v4M
+
+### 🧑‍💻 Code
+- https://github.com/BerriAI/litellm
 
 ### Build
 **Project 1: LLM Gateway API**
@@ -31,9 +38,6 @@ Become an **AI Systems / Backend Engineer** capable of building:
   - Pydantic validation
   - retries
   - logging
-
-Example Repos:
-- https://github.com/BerriAI/litellm
 
 ---
 
@@ -46,7 +50,10 @@ Example Repos:
 
 ### Resources
 - ReAct Paper: https://arxiv.org/abs/2210.03629
-- smol-ai: https://github.com/smol-ai/developer
+- https://github.com/smol-ai/developer
+
+### 🎥 Videos
+- Build AI Agent from Scratch: https://www.youtube.com/watch?v=8bJ3Y3u3zXU
 
 ### Build
 **Project 2: Tool Server**
@@ -62,7 +69,9 @@ Example Repos:
 
 ### Resources
 - OpenAI Cookbook agent examples
-- YouTube: “Build AI agent from scratch Python”
+
+### 🎥 Videos
+- AI Agents Full Course: https://www.youtube.com/watch?v=AhbQ7xI6C1E
 
 ### Build
 **Project 3: Task Agent**
@@ -78,9 +87,12 @@ Example Repos:
 - Retrieval
 
 ### Resources
-- Pinecone RAG: https://www.pinecone.io/learn/retrieval-augmented-generation/
-- LlamaIndex: https://docs.llamaindex.ai
-- Chroma: https://docs.trychroma.com
+- https://www.pinecone.io/learn/retrieval-augmented-generation/
+- https://docs.llamaindex.ai
+- https://docs.trychroma.com
+
+### 🎥 Videos
+- RAG from Scratch Python: https://www.youtube.com/watch?v=T-D1OfcDW1M
 
 ### Build
 **Project 4: Chat with Codebase**
@@ -97,6 +109,9 @@ Example Repos:
 - https://python.langchain.com
 - https://docs.llamaindex.ai
 
+### 🎥 Videos
+- LangChain Crash Course: https://www.youtube.com/watch?v=aywZrzNaKjs
+
 ### Build
 Rebuild agent using framework
 
@@ -110,6 +125,9 @@ Rebuild agent using framework
 
 ### Resources
 - https://github.com/modelcontextprotocol
+
+### 🎥 Videos
+- MCP Explained: https://www.youtube.com/watch?v=Zy5Yh5G1R6w
 
 ### Build
 **Project 5: MCP Server**
@@ -125,6 +143,9 @@ Rebuild agent using framework
 - https://github.com/microsoft/autogen
 - https://github.com/joaomdmoura/crewAI
 
+### 🎥 Videos
+- AutoGen Multi-Agent Tutorial: https://www.youtube.com/watch?v=2f3l2WlQ7n0
+
 ### Build
 **Project 6: Multi-agent system**
 
@@ -139,6 +160,9 @@ Rebuild agent using framework
 ### Resources
 - OpenAI Engineering Blog
 - Anthropic Blog
+
+### 🎥 Videos
+- Scaling LLM Apps: https://www.youtube.com/watch?v=6cWb3p3K9Z8
 
 ### Build
 **Project 7: Production API**
